@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="imgs/logo.png" alt="Logo">
-</p>
+</p> 
 
 [![arXiv](https://img.shields.io/badge/Paper-green)](https://arxiv.org/abs/2408.00203)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
